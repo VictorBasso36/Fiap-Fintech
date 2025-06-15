@@ -10,7 +10,9 @@ O layout foi replicado com base na imagem abaixo, exportada do Figma:
 
 ![Tela do Figma](./screen.png)
 
----
+O Resultado:
+
+## ![Tela do Resultado](./result.png)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -27,4 +29,5 @@ O layout foi replicado com base na imagem abaixo, exportada do Figma:
 ├── style.css
 └── screen.png  # Imagem do Figma utilizada como referência
 └── fiapbg.png  # Imagem de background
+└── result.png  # Imagem de resultado
 ```
