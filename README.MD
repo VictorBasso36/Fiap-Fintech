@@ -26,4 +26,5 @@ O layout foi replicado com base na imagem abaixo, exportada do Figma:
 ├── index.html
 ├── style.css
 └── screen.png  # Imagem do Figma utilizada como referência
+└── fiapbg.png  # Imagem de background
 ```
