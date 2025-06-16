@@ -6,13 +6,13 @@ Este é um projeto desenvolvido para a faculdade FIAP com o objetivo de praticar
 
 ## 🖼️ Design de Referência
 
-O layout foi replicado com base na imagem abaixo, exportada do Figma:
+O layout foi replicado de forma responsiva com base na imagem abaixo, exportada do Figma:
 
 ![Tela do Figma](./screen.png)
 
 O Resultado:
 
-## ![Tela do Resultado](./result.png)
+## ![Tela do Resultado](./resultScreen.png)
 
 ## 🚀 Tecnologias Utilizadas
 
