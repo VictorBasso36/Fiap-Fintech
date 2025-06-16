@@ -12,7 +12,7 @@ O layout foi replicado de forma responsiva com base na imagem abaixo, exportada 
 
 O Resultado:
 
-## ![Tela do Resultado](./resultScreen.png)
+## ![Tela do Resultado](./result.png)
 
 ## 🚀 Tecnologias Utilizadas
 
